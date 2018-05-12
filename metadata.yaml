@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34064#Der-Courier-des-Czaar--Michael-Strogoff-
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-10-12'
 gutenberg_type: Text
